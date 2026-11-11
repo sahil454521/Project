@@ -1,0 +1,44 @@
+[
+  {
+    "k": 1,
+    "tasks": 139,
+    "correct": 78,
+    "overfit": 55,
+    "unrepaired": 6
+  },
+  {
+    "k": 2,
+    "tasks": 139,
+    "correct": 98,
+    "overfit": 33,
+    "unrepaired": 8
+  },
+  {
+    "k": 3,
+    "tasks": 139,
+    "correct": 106,
+    "overfit": 25,
+    "unrepaired": 8
+  },
+  {
+    "k": 5,
+    "tasks": 139,
+    "correct": 114,
+    "overfit": 16,
+    "unrepaired": 9
+  },
+  {
+    "k": 10,
+    "tasks": 139,
+    "correct": 121,
+    "overfit": 9,
+    "unrepaired": 9
+  },
+  {
+    "k": 20,
+    "tasks": 139,
+    "correct": 125,
+    "overfit": 3,
+    "unrepaired": 11
+  }
+]
